@@ -5,21 +5,27 @@ body {
   font-family: 'Montserrat', sans-serif;
   margin: 50px 100px 50px 100px;
   color: white;
-text-align: center;
+  text-align: center;
 }
+
 #bio a {
-  color:aqua;
+  color: aqua;
 }
-ol, ul {
-display: inline-block;
+
+ol,
+ul {
+  display: inline-block;
 }
+
 h1 {
-font-family: 'Domine', serif;
+  font-family: 'Domine', serif;
 }
+
 h2 {
-padding-top: 40px ;
-border-top: 0.5px solid white;
+  padding-top: 40px;
+  border-top: 0.5px solid white;
 }
+
 .social-media-links {
-color: #ffd540
+  color: #ffd540;
 }
